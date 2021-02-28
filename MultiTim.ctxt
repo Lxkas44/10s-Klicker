@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MultiTim
+comment1.params=
+comment1.target=MultiTim()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ start()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=void\ klicken()
+comment8.params=
+comment8.target=void\ stop()
+numComments=9
